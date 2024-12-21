@@ -1,4 +1,4 @@
-#include <iostream> // Программа учебная
+#include <iostream> // Программа учебная. Author: Kholchev Nikita, KE-217. 2024 year
 
 using namespace std;
 
